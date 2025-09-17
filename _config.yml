@@ -11,7 +11,7 @@ defaults:
 
 style: dev
 title: Deploy 02 - React Frontend
-description: "How to deploy react sites developped with Harmonia hosted on Vercel"
+description: "How to deploy a react app on Vercel"
 show_clone: false
 show_toc: true
 lang: en
